@@ -22,7 +22,9 @@ Freelance Researcher, @BergamoHub Workscape e-Learning Designer and - IT consult
 
 
 ## 
-www.fabrizioterzi.eu
+www.fabrizioterzi.eu 
+<img src="https://i.stack.imgur.com/9LVpa.gif" width="48">
+
 
 <!--
 **FTG-003/FTG-003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
