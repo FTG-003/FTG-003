@@ -23,7 +23,7 @@ Freelance Researcher, @BergamoHub Workscape e-Learning Designer and - IT consult
 
 ## 
 www.fabrizioterzi.eu 
-<img src="https://i.stack.imgur.com/9LVpa.gif" width="48">
+<img src="https://lh3.googleusercontent.com/proxy/df4Yn8h6rPvgUnczrUeaIADkVixKdw_XrDs0yv5vQ9feIJ2a_-ZGSqI1nNTFiWVuJu3FZvhbQTWRI1vqT5jh5Mibjpf3PqY" width="80">
 
 
 <!--
