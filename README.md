@@ -23,10 +23,8 @@ Freelance Researcher, @BergamoHub Workscape e-Learning Designer and - IT consult
 
 <hr>
 
-## 
 www.fabrizioterzi.eu 
 
-hafffe:readme
 
 <!--
 **FTG-003/FTG-003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
