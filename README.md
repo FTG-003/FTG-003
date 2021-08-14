@@ -1,10 +1,9 @@
-## Fabrizio Terzi  :eyes:
+<h2 align="center">Hello there! My name is Fabrizio Terzi. 👋🤓</h2>
 
 Freelance Researcher, @BergamoHub Workscape e-Learning Designer and - IT consultant - Technical Support & Training. Very interested in Digital Education Solutions and Innovation. "A dream you dream alone is only a dream. A dream you dream together is reality." 
 
 
 ## Educational Background
-* Italian Design
 * Educational Research
 * e-Learning
 * Music Theory and Composition
@@ -18,16 +17,17 @@ Freelance Researcher, @BergamoHub Workscape e-Learning Designer and - IT consult
 * [Social Learning for Social Impact | @McGill University School](https://courses.edx.org/certificates/5f4b2ed6693943369fdbffc1f76f6073) 
 * [Problem-Based Learning: Principles and Design | @Maastricht University](https://novoed.com/problem-based-learning/statement_template?user_id=730267)
 
+<hr>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FTG-003&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
+
+<hr>
 
 ## 
 www.fabrizioterzi.eu 
 
-
+hafffe:readme
 
 <!--
 **FTG-003/FTG-003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-hafffe:readme
-
-
 -->
