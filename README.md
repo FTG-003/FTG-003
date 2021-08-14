@@ -20,7 +20,7 @@ Freelance Researcher, @BergamoHub Workscape e-Learning Designer and - IT consult
 * [Social Learning for Social Impact | @McGill University School](https://courses.edx.org/certificates/5f4b2ed6693943369fdbffc1f76f6073) 
 * [Problem-Based Learning: Principles and Design | @Maastricht University](https://novoed.com/problem-based-learning/statement_template?user_id=730267)
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FTG-003&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
 
 ## 
 www.fabrizioterzi.eu 
