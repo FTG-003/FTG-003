@@ -2,6 +2,7 @@
 
 Freelance Researcher, @BergamoHub Workscape e-Learning Designer and - IT consultant - Technical Support & Training. Very interested in Digital Education Solutions and Innovation. "A dream you dream alone is only a dream. A dream you dream together is reality." 
 
+<img width="1024" height="168"  src= "https://lh3.googleusercontent.com/proxy/LOpIagpWGzoJ2n6d67YEpPSCKLhLiButpwH9bHhgvdsXAnzwmLwXkf68nCWEe0J_5UV69OzNxJF_hES-" alt="Awesome Badge"/>
 
 ## Educational Background
 * Educational Research
