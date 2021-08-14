@@ -1,4 +1,4 @@
-<h2 align="center">Hello there! My name is Fabrizio Terzi. 👋🤓</h2>
+<h1 align="center">Hello there! My name is Fabrizio Terzi. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">🤓</h2>
 <p align="center">
 Freelance Researcher, @BergamoHub Workscape e-Learning Designer and - IT consultant - Technical Support & Training. Very interested in Digital Education Solutions and Innovation. 
 
