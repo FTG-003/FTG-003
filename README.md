@@ -1,5 +1,3 @@
-
-
 ## Fabrizio Terzi  :eyes:
 
 Freelance Researcher, @BergamoHub Workscape e-Learning Designer and - IT consultant - Technical Support & Training. Very interested in Digital Education Solutions and Innovation. "A dream you dream alone is only a dream. A dream you dream together is reality." 
