@@ -8,10 +8,6 @@ Freelance Researcher, @BergamoHub Workscape e-Learning Designer and - IT consult
   
 <p align="right">www.fabrizioterzi.eu
   
-
-
-  
-  
 ## Educational Background
 * Educational Research
 * e-Learning
@@ -26,6 +22,15 @@ Freelance Researcher, @BergamoHub Workscape e-Learning Designer and - IT consult
 * [Social Learning for Social Impact | @McGill University School](https://courses.edx.org/certificates/5f4b2ed6693943369fdbffc1f76f6073) 
 * [Problem-Based Learning: Principles and Design | @Maastricht University](https://novoed.com/problem-based-learning/statement_template?user_id=730267)
 
+[![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/Naereen/badges)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+[![ProtonMail](https://img.shields.io/badge/Email%20service-ProtonMail-informational?style=flat-square&color=8B89CC&logo=protonmail&logoColor=white)](https://protonmail.com/)
+[![Website](https://img.shields.io/badge/Website-fabrizio.bio-informational?style=flat-square&color=black&logo=vercel&logoColor=white)](https://https://www.fabrizioterzi.eu/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-bergamohub001-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bergamohub001//)
+
 <hr>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FTG-003&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
@@ -33,6 +38,7 @@ Freelance Researcher, @BergamoHub Workscape e-Learning Designer and - IT consult
 <hr>
 
 
+[![Contributors over time](https://contributor-graph-api.apiseven.com/contributors-svg?chart=contributorOverTime&repo=Naereen/badges)](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=Naereen/badges)
 
 
 <!--
