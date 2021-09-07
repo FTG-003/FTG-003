@@ -28,7 +28,7 @@ Freelance Researcher, @BergamoHub Workscape e-Learning Designer and - IT consult
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 [![ProtonMail](https://img.shields.io/badge/Email%20service-ProtonMail-informational?style=flat-square&color=8B89CC&logo=protonmail&logoColor=white)](https://protonmail.com/)
-[![Website](https://img.shields.io/badge/Website-fabrizio.bio-informational?style=flat-square&color=black&logo=vercel&logoColor=white)](https://https://www.fabrizioterzi.eu/)
+[![Website](https://img.shields.io/badge/Website-fabrizio.bio-informational?style=flat-square&color=black&logo=vercel&logoColor=white)](https://www.fabrizioterzi.eu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-bergamohub001-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bergamohub001//)
 
 <hr>
