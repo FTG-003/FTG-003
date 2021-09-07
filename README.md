@@ -15,7 +15,7 @@ Freelance Researcher, @BergamoHub Workscape e-Learning Designer and - IT consult
 * Data Science
 * Peeragogy
 
-## Certification
+## Certifications
 * [Teaching for Educators: Development and Delivery Professional Certificate | @UBC](https://credentials.edx.org/credentials/4f1582fd38b04602878732da7a48bb93/)
 * [Design and Development of Educational Technology | @MITx](https://courses.edx.org/certificates/7e61aad7c34c4ace834e8d8fec150fd3)
 * [Change the global course of Learning | @Stanford Edx ](https://verify.class.stanford.edu/SOA/6933f9f6f1ce42b18cfc6408ab832c38) 
