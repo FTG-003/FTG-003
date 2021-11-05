@@ -1,6 +1,6 @@
 <h1 align="center">Hello there! My name is Fabrizio Terzi. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">🤓</h2>
 <p align="center">
-Freelance Researcher, @BergamoHub Workscape e-Learning Designer and - IT consultant - Technical Support & Training. Very interested in Digital Education Solutions and Innovation. 
+E-Learning Specialist, @BergamoHub Workscape e-Learning Designer and - IT consultant - Technical Support & Training. Very interested in Digital Education Solutions and Innovation. 
 
 ![keaton-salut](https://user-images.githubusercontent.com/3668236/129442388-ae281b79-98bd-4b24-a2b7-b888cfbf9e10.gif)
 <p align="right"><i>"A dream you dream alone is only a dream. A dream you dream together is reality".
