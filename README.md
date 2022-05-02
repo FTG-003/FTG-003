@@ -4,7 +4,7 @@ E-Learning Specialist, @BergamoHub: Workscape e-Learning Designer and - IT consu
 
 ![keaton-salut](https://user-images.githubusercontent.com/3668236/129442388-ae281b79-98bd-4b24-a2b7-b888cfbf9e10.gif)
 <p align="right"><i>"A dream you dream alone is only a dream. A dream you dream together is reality".
-<p align="right"><img src="https://raw.githubusercontent.com/FTG-003/stephenajulu/master/images/rsz%20300w%20asset_1.png" width="100"></a>
+<p align="right"><img src="https://github.com/FTG-003/streghetta/blob/gh-pages/assets/images/faces/asset_1.png?raw=true" width="100"></a>
   
 <p align="right">www.fabrizioterzi.eu
   
