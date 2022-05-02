@@ -25,7 +25,7 @@ E-Learning Specialist, @BergamoHub: Workscape e-Learning Designer and - IT consu
 [![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 [![Open in Visual Studio Code](https://img.shields.io/static/v1?logo=visualstudiocode&label=&message=Open%20in%20Visual%20Studio%20Code&labelColor=2c2c32&color=007acc&logoColor=007acc
-)](https://open.vscode.dev/SIAR/badges)
+)](https://open.vscode.dev/FTG-003/badges)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 [![ProtonMail](https://img.shields.io/badge/Email%20service-ProtonMail-informational?style=flat-square&color=8B89CC&logo=protonmail&logoColor=white)](https://protonmail.com/)
