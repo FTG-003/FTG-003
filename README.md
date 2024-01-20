@@ -22,7 +22,7 @@ E-Learning Specialist, @BergamoHub: Workscape e-Learning Designer and - IT consu
 * [Social Learning for Social Impact | @McGill University School](https://courses.edx.org/certificates/5f4b2ed6693943369fdbffc1f76f6073) 
 * [Problem-Based Learning: Principles and Design | @Maastricht University](https://novoed.com/problem-based-learning/statement_template?user_id=730267)
 
-[![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
+
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 [![Open in Visual Studio Code](https://img.shields.io/static/v1?logo=visualstudiocode&label=&message=Open%20in%20Visual%20Studio%20Code&labelColor=2c2c32&color=007acc&logoColor=007acc
 )](https://open.vscode.dev/FTG-003/badges)
