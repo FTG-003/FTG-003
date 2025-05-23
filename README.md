@@ -15,13 +15,25 @@ E-Learning Specialist, @BergamoHub: Workscape e-Learning Designer and - IT consu
 * Data Science
 * Peeragogy
 
-## Certifications
+## Certifications:
 * [Teaching for Educators: Development and Delivery Professional Certificate | @UBC](https://credentials.edx.org/credentials/4f1582fd38b04602878732da7a48bb93/)
 * [Design and Development of Educational Technology | @MITx](https://courses.edx.org/certificates/7e61aad7c34c4ace834e8d8fec150fd3)
 * [Change the global course of Learning | @Stanford Edx ](https://verify.class.stanford.edu/SOA/6933f9f6f1ce42b18cfc6408ab832c38) 
 * [Social Learning for Social Impact | @McGill University School](https://courses.edx.org/certificates/5f4b2ed6693943369fdbffc1f76f6073) 
 * [Problem-Based Learning: Principles and Design | @Maastricht University](https://novoed.com/problem-based-learning/statement_template?user_id=730267)
 
+## 📚 Publications:
+
+### Cognitive Rhythm Theory: AI–Human Co-Creation Education and Beyond  
+**Fabrizio Terzi** ([ORCID: 0009-0004-7191-0455](https://orcid.org/0009-0004-7191-0455))  
+**Published**: [https://zenodo.org/records/15480363](https://zenodo.org/records/15480363)  
+
+*A formal theory of cognitive synchronization, resonance, and phase shifts in human–AI interaction.*
+
+Includes:
+- A mathematical model of cognitive rhythm: `RC(H,A,t) = f(∆ΦH, ∆ΦA, S(t), R(t))`
+
+---
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 [![Open in Visual Studio Code](https://img.shields.io/static/v1?logo=visualstudiocode&label=&message=Open%20in%20Visual%20Studio%20Code&labelColor=2c2c32&color=007acc&logoColor=007acc
