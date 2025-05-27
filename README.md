@@ -6,7 +6,7 @@ E-Learning Specialist, @BergamoHub: Workscape e-Learning Designer and - IT consu
 <p align="right"><i>"A dream you dream alone is only a dream. A dream you dream together is reality".
 <p align="right"><img src="https://github.com/FTG-003/streghetta/blob/gh-pages/assets/images/faces/asset_1.png?raw=true" width="100"></a>
   
-<p align="right">www.pyragogy.org
+<p align="right">www.fabrizio.pyragogy.org
   
 ## Educational Background
 * Educational Research
