@@ -52,10 +52,6 @@ Includes:
 
 <hr>
 
-
-[![Contributors over time](https://contributor-graph-api.apiseven.com/contributors-svg?chart=contributorOverTime&repo=Naereen/badges)](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=Naereen/badges)
-
-
 <!--
 **FTG-003/FTG-003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
