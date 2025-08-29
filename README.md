@@ -24,16 +24,39 @@ E-Learning Specialist, @BergamoHub: Workscape e-Learning Designer and - IT consu
 * [Social Learning for Social Impact | @McGill University School](https://courses.edx.org/certificates/5f4b2ed6693943369fdbffc1f76f6073) 
 * [Problem-Based Learning: Principles and Design | @Maastricht University](https://novoed.com/problem-based-learning/statement_template?user_id=730267)
 
-## 📚 Publications:
 
-### Cognitive Rhythm Theory: AI–Human Co-Creation Education and Beyond  
-**Fabrizio Terzi** ([ORCID: 0009-0004-7191-0455](https://orcid.org/0009-0004-7191-0455))  
-**Published**: [https://zenodo.org/records/15480363](https://zenodo.org/records/15480363)  
+  ---
 
-*A formal theory of cognitive synchronization, resonance, and phase shifts in human–AI interaction.*
+## 📚 Publications - Fabrizio Terzi ([ORCID: 0009-0004-7191-0455](https://orcid.org/0009-0004-7191-0455))  
 
-Includes:
-- A mathematical model of cognitive rhythm: `RC(H,A,t) = f(∆ΦH, ∆ΦA, S(t), R(t))`
+### [Cognitive Rhythm Theory: AI–Human Co-Creation Education and Beyond](https://zenodo.org/records/16961291)  
+ 
+*A formal theory of cognitive synchronization, resonance, and phase shifts in human–AI interaction.*  
+
+- Introduces the **Cognitive Rhythm Theory** as a framework for human–AI co-creation.  
+- Proposes a **mathematical model of cognitive rhythm**:  
+  `RC(H,A,t) = f(∆ΦH, ∆ΦA, S(t), R(t))`  
+- Explores synchronization, resonance, and phase shifts in shared cognitive processes.  
+
+---
+
+### [Cognitive Intraspecific Selection in Education: From Individualism to Collective Strength](https://zenodo.org/records/15480363)  
+ 
+*Transposes the biological concept of intraspecific selection into the field of education.*  
+
+- Shifts the **unit of selection** from individuals to ideas (cognitive constructs).  
+- Structured around four isomorphisms:  
+  - Variation – epistemic diversity  
+  - Selection – critical comparison of ideas  
+  - Heritability – cultural transmission  
+  - Adaptation – conceptual evolution  
+- Operationalized through **Pyragogy**, an evolutionary peer-to-peer pedagogy:  
+  - Cognitive Reciprocation  
+  - Ritualization of Conflict  
+  - Facilitation through Artificial Intelligence  
+- Supported by metrics such as the **Epistemic Quality Index (EQI)** and the **IdeoEvo** experimental design.  
+
+**Keywords**: cognitive rhythm, intraspecific selection, evolutionary education, AI–human co-creation, pyragogy  
 
 ---
 
