@@ -60,6 +60,13 @@ E-Learning Specialist, @BergamoHub: Workscape e-Learning Designer and - IT consu
 
 ---
 
+### [Eco-System: Fonetica Italiana Mnemonica](https://doi.org/10.5281/zenodo.17436054)
+*Phonetic Conversion Framework for the Italian Language — Published on Zenodo (2025)*
+Eco-System reinterprets the connection between numbers and sounds according to Italian phonology, offering an original cultural and cognitive mnemonic model.
+**DOI:** [10.5281/zenodo.17436054](https://doi.org/10.5281/zenodo.17436054)
+
+---
+
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 [![Open in Visual Studio Code](https://img.shields.io/static/v1?logo=visualstudiocode&label=&message=Open%20in%20Visual%20Studio%20Code&labelColor=2c2c32&color=007acc&logoColor=007acc
 )](https://open.vscode.dev/FTG-003/badges)
