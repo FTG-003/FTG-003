@@ -29,7 +29,7 @@ E-Learning Specialist, @BergamoHub: Workscape e-Learning Designer and - IT consu
 
 ## 📚 Publications - Fabrizio Terzi ([ORCID: 0009-0004-7191-0455](https://orcid.org/0009-0004-7191-0455))  
 
-### [Cognitive Rhythm Theory: AI–Human Co-Creation Education and Beyond](https://zenodo.org/records/16961291)  
+### [Cognitive Rhythm Theory: AI–Human Co-Creation Education and Beyond](https://zenodo.org/records/15480363) 
  
 *A formal theory of cognitive synchronization, resonance, and phase shifts in human–AI interaction.*  
 
