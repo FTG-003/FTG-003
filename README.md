@@ -40,7 +40,7 @@ E-Learning Specialist, @BergamoHub: Workscape e-Learning Designer and - IT consu
 
 ---
 
-### [Cognitive Intraspecific Selection in Education: From Individualism to Collective Strength](https://zenodo.org/records/15480363)  
+### [Cognitive Intraspecific Selection in Education: From Individualism to Collective Strength](https://zenodo.org/records/16962409)  
  
 *Transposes the biological concept of intraspecific selection into the field of education.*  
 
