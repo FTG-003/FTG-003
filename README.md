@@ -10,11 +10,7 @@ E-Learning Specialist, @BergamoHub: Workscape e-Learning Designer and - IT consu
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="La mia città dei commit in 3D" width="100%" />
 </p>
 
 ---
@@ -82,6 +78,3 @@ Eco-System reinterprets the connection between numbers and sounds according to I
 -->
 
 
-<p align="center">
-  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="La mia città dei commit in 3D" width="100%" />
-</p>
