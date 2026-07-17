@@ -80,3 +80,8 @@ Eco-System reinterprets the connection between numbers and sounds according to I
 <!--
 **FTG-003/FTG-003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+
+
+<p align="center">
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="La mia città dei commit in 3D" width="100%" />
+</p>
