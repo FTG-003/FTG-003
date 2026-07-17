@@ -8,14 +8,7 @@ E-Learning Specialist, @BergamoHub: Workscape e-Learning Designer and - IT consu
   
 <p align="right"> https://fabrizio.pyragogy.org
 
-
-<p align="center">
-  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="La mia città dei commit in 3D" width="100%" />
-</p>
-
 ---
-
-
 
 ## Educational Background
 * Educational Research
@@ -31,8 +24,13 @@ E-Learning Specialist, @BergamoHub: Workscape e-Learning Designer and - IT consu
 * [Social Learning for Social Impact | @McGill University School](https://courses.edx.org/certificates/5f4b2ed6693943369fdbffc1f76f6073) 
 * [Problem-Based Learning: Principles and Design | @Maastricht University](https://novoed.com/problem-based-learning/statement_template?user_id=730267)
 
-
   ---
+
+  
+<p align="center">
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="La mia città dei commit in 3D" width="100%" />
+</p>
+
 
 ## 📚 Publications - Fabrizio Terzi ([ORCID: 0009-0004-7191-0455](https://orcid.org/0009-0004-7191-0455))  
 
