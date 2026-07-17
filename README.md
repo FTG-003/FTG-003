@@ -2,6 +2,16 @@
 <p align="center">
 E-Learning Specialist, @BergamoHub: Workscape e-Learning Designer and - IT consultant - Technical Support & Training. Very interested in Digital Education Solutions and Innovation. 
 
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" alt="Astro">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+</p>
+
 ![keaton-salut](https://user-images.githubusercontent.com/3668236/129442388-ae281b79-98bd-4b24-a2b7-b888cfbf9e10.gif)
 <p align="right"><i>"A dream you dream alone is only a dream. A dream you dream together is reality".
 <p align="right"><img src="https://github.com/FTG-003/streghetta/blob/gh-pages/assets/images/faces/asset_1.png?raw=true" width="100"></a>
