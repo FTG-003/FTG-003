@@ -9,6 +9,17 @@ E-Learning Specialist, @BergamoHub: Workscape e-Learning Designer and - IT consu
 <p align="right"> https://fabrizio.pyragogy.org
 
 
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+---
+
+
 
 ## Educational Background
 * Educational Research
@@ -65,22 +76,6 @@ E-Learning Specialist, @BergamoHub: Workscape e-Learning Designer and - IT consu
 Eco-System reinterprets the connection between numbers and sounds according to Italian phonology, offering an original cultural and cognitive mnemonic model.
 **DOI:** [10.5281/zenodo.17436054](https://doi.org/10.5281/zenodo.17436054)
 
----
-
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-[![Open in Visual Studio Code](https://img.shields.io/static/v1?logo=visualstudiocode&label=&message=Open%20in%20Visual%20Studio%20Code&labelColor=2c2c32&color=007acc&logoColor=007acc
-)](https://open.vscode.dev/FTG-003/badges)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-[![ProtonMail](https://img.shields.io/badge/Email%20service-ProtonMail-informational?style=flat-square&color=8B89CC&logo=protonmail&logoColor=white)](https://protonmail.com/)
-[![Website](https://img.shields.io/badge/Website-fabrizio.bio-informational?style=flat-square&color=black&logo=vercel&logoColor=white)](https://www.fabrizioterzi.eu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-bergamohub001-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bergamohub001//)
-
-<hr>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FTG-003&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
-
-<hr>
 
 <!--
 **FTG-003/FTG-003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
