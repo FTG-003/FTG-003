@@ -2,8 +2,12 @@ name: GitHub-Profile-3D-Contrib
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Genera l'immagine ogni giorno a mezzanotte
-  workflow_dispatch: # Permette l'avvio manuale immediato
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/profile-3d.yml"
 
 permissions:
   contents: write
@@ -15,16 +19,20 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+      - name: Generate 3D contribution graph
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ github.token }}
           USERNAME: ${{ github.repository_owner }}
 
-      - name: Commit & Push Changes
+      - name: Commit & push generated files
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add -A .
-          git diff --cached --quiet && exit 0
-          git commit -m "Generated 3D Profile City"
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No generated changes to commit."
+            exit 0
+          fi
+          git commit -m "chore: update 3D contribution graph"
           git push
